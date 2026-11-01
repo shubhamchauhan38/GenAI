@@ -216,7 +216,7 @@ try
         chatHistory.Add(new ChatMessage(ChatRole.Assistant, response));
         Console.WriteLine();
     }
-
+     
     #endregion
 }
 catch (Exception ex)
