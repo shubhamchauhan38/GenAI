@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "llm", "llm", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextCompletions", "TextCompletions\TextCompletions.csproj", "{DDC3F28D-D68F-4840-96FD-F33EADA97817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC3F28D-D68F-4840-96FD-F33EADA97817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC3F28D-D68F-4840-96FD-F33EADA97817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC3F28D-D68F-4840-96FD-F33EADA97817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC3F28D-D68F-4840-96FD-F33EADA97817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDC3F28D-D68F-4840-96FD-F33EADA97817} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B11C4D7F-DEA7-42E0-881C-14FB3B477CD1}
+	EndGlobalSection
+EndGlobal
